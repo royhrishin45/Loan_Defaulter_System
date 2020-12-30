@@ -1,4 +1,4 @@
-Machine Learning Project using Python
+LOAN DEFAULTER SYSTEM
 
 Loan lending has been playing a significant role in the financial world throughout the years. Although it is quite profitable and beneficial for both the lenders and the borrowers. It does, however, carry a great risk, which in the domain of loan lending is referred to as Credit risk. Industry experts and Researchers around the world assign individuals with numerical scores known as credit scores to measure the risk and their creditworthiness. Throughout the years machine learning algorithms have been used to calculate and predict credit risk by evaluating an individual's historical data. This study reviews the present literature on models predicting risk assessment that use machine learning algorithms.
 
